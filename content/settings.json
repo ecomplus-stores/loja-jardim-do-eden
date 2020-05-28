@@ -1,22 +1,22 @@
 {
-  "store_id": 1067,
-  "name": "Voller Manie",
   "domain": "lojajardim-eden.netlify.app",
-  "short_name": "Voller Manie",
-  "description": "Nossa prioridade é levar uma melhor qualidade de vida para nossos clientes com produtos de alta qualidade e total discrição de maneira rápida, prática e segura.",
+  "currency_symbol": "R$",
   "primary_color": "#ff0018",
-  "secondary_color": "#6dad25",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "materia"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Jardim do Éden Comercio e Serviço do Vestuario LTDA",
+  "short_name": "Jardim do Éden",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#6dad25",
+  "icon": "/img/uploads/85014127_325603068371936_1185030426708672512_n.png",
+  "store_id": 1067,
+  "description": "Nossa prioridade é levar uma melhor qualidade de vida para nossos clientes com produtos de alta qualidade e total discrição de maneira rápida, prática e segura.",
+  "large_icon": "/img/uploads/logo.png"
 }

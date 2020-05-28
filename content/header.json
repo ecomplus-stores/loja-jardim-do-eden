@@ -20,6 +20,10 @@
       {
         "title": "Formas de pagamento",
         "link": "formasdepagamento"
+      },
+      {
+        "title": "Dúvidas frequentes",
+        "link": "duvidasfrequentes"
       }
     ],
     "phone_wpp": true,

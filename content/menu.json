@@ -1,5 +1,14 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "acessorios",
+    "brincadeiras",
+    "cosmesticos",
+    "fantasias",
+    "perfumes",
+    "proteses",
+    "sado",
+    "vibradores"
+  ],
   "phone_wpp": true,
   "socials": true
 }

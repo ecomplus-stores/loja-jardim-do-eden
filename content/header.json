@@ -10,8 +10,16 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Trocas e devoluções",
+        "link": "/pages/trocasedevolucoes"
+      },
+      {
+        "title": "Política de privacidade",
+        "link": "políticadeprivacidade"
+      },
+      {
+        "title": "Formas de pagamento",
+        "link": "formasdepagamento"
       }
     ],
     "phone_wpp": true,

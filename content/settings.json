@@ -1,14 +1,14 @@
 {
-  "store_id": 1052,
-  "name": "My Shop",
-  "domain": "ecomplus-storefront.netlify.app",
-  "short_name": "My Shop",
-  "description": "My PWA Shop",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
+  "store_id": 1067,
+  "name": "Voller Manie",
+  "domain": "lojajardim-eden.netlify.app",
+  "short_name": "Voller Manie",
+  "description": "Nossa prioridade é levar uma melhor qualidade de vida para nossos clientes com produtos de alta qualidade e total discrição de maneira rápida, prática e segura.",
+  "primary_color": "#ff0018",
+  "secondary_color": "#6dad25",
   "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "materia"
   },
   "logo": "/img/uploads/logo.png",
   "mini_logo": "",

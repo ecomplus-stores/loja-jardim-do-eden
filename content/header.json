@@ -15,36 +15,30 @@
       },
       {
         "title": "Política de privacidade",
-        "link": "políticadeprivacidade"
+        "link": "/pages/políticadeprivacidade"
       },
       {
         "title": "Formas de pagamento",
-        "link": "formasdepagamento"
+        "link": "/pages/formasdepagamento"
       },
       {
         "title": "Dúvidas frequentes",
-        "link": "duvidasfrequentes"
+        "link": "/pages/duvidasfrequentes"
       },
       {
         "title": " Condições de entrega",
-        "link": " condicoesdeentrega"
+        "link": "/pages/ condicoesdeentrega"
       },
       {
         "title": "Contato",
-        "link": "contato"
+        "link": "/pages/contato"
       }
     ],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/cosmesticos?COSMÉSTICOS",
-      "/plugs?PLUGS",
-      "/vibradores?VIBRADORES",
-      "/proteses?PRÓTESES",
-      "/fantasias?FANTASIAS"
-    ],
+    "featured": [],
     "random": 8
   },
   "search_input": true

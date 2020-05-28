@@ -50,6 +50,14 @@
       "shuffle": true,
       "collection_id": "5ec0274e126b0d05721389ea",
       "sort": "news"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true
     }
   ]
 }

@@ -28,6 +28,10 @@
       {
         "title": " Condições de entrega",
         "link": " condicoesdeentrega"
+      },
+      {
+        "title": "Contato",
+        "link": "contato"
       }
     ],
     "phone_wpp": true,

@@ -3,25 +3,17 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
+      "type": "banners-grid",
+      "banners": [
         {
-          "start": "2020-05-29T20:48:49.823Z",
-          "end": "2020-05-29T20:48:49.847Z",
-          "img": "/img/uploads/lust-metal.jpg",
-          "mobile_img": ""
-        },
-        {
-          "start": "2020-05-29T21:00:32.896Z",
-          "end": "2020-05-29T21:00:32.938Z",
-          "img": "/img/uploads/menforce-2020.jpg"
+          "img": "/img/uploads/fantasias.png",
+          "mobile_img": "/img/uploads/fantasias.png"
         }
       ]
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     },
     {
       "type": "collection-shelf",

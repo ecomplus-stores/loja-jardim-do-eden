@@ -12,6 +12,10 @@
       "img": "/img/uploads/87537129_1146700612339220_6445749770941104128_n.png"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/tarja-je.jpg"
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },

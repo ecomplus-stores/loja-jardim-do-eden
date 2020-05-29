@@ -4,28 +4,7 @@
     "link": ""
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Trocas e devoluções",
-        "link": "/pages/trocasedevolucoes"
-      },
-      {
-        "title": "Política de privacidade",
-        "link": "/pages/políticadeprivacidade"
-      },
-      {
-        "title": "Formas de pagamento",
-        "link": "/pages/formasdepagamento"
-      },
-      {
-        "title": "Dúvidas frequentes",
-        "link": "/pages/duvidasfrequentes"
-      },
-      {
-        "title": " Condições de entrega",
-        "link": "/pages/ condicoesdeentrega"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },

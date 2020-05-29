@@ -24,16 +24,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/tarja-je.jpg",
-      "mobile_img": "/img/uploads/tarja-je.jpg"
-    },
-    {
-      "type": "responsive-banner",
-      "mobile_img": "/img/uploads/87537129_1146700612339220_6445749770941104128_n.png",
-      "img": "/img/uploads/87537129_1146700612339220_6445749770941104128_n.png"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "sort": "news"
@@ -51,6 +41,10 @@
       "sort": "news",
       "title": "Prótese Peniana",
       "link": "https://loja-jardim-do-eden.netlify.app/proteses"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }

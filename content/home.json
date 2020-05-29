@@ -3,17 +3,8 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/fantasias.png",
-          "mobile_img": "/img/uploads/fantasias.png"
-        },
-        {
-          "img": "/img/uploads/plugs.png",
-          "mobile_img": "/img/uploads/plugs.png"
-        }
-      ]
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "collection-shelf",
@@ -33,6 +24,10 @@
       "sort": "news",
       "title": "Prótese Peniana",
       "link": "https://loja-jardim-do-eden.netlify.app/proteses"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/lust-metal.jpg"
     }
   ]
 }

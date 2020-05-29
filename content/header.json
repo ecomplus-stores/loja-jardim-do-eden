@@ -4,7 +4,24 @@
     "link": ""
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "A empresa",
+        "link": "https://loja-jardim-do-eden.netlify.app/pages/sobre-nos"
+      },
+      {
+        "link": "https://loja-jardim-do-eden.netlify.app/pages/pagamentos",
+        "title": "Pagamentos"
+      },
+      {
+        "link": "https://loja-jardim-do-eden.netlify.app/pages/trocas",
+        "title": "Trocas e Devoluções"
+      },
+      {
+        "title": "Atendimento",
+        "link": "https://loja-jardim-do-eden.netlify.app/pages/contato"
+      }
+    ],
     "phone_wpp": true,
     "socials": true
   },

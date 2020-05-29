@@ -12,10 +12,6 @@
       ]
     },
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "sort": "news"
@@ -23,7 +19,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "5ec83150126b0d057214ae24",
+      "collection_id": "5ec0274e126b0d05721389ea",
       "sort": "news"
     },
     {
@@ -33,10 +29,6 @@
       "sort": "news",
       "title": "Prótese Peniana",
       "link": "https://loja-jardim-do-eden.netlify.app/proteses"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ]
 }

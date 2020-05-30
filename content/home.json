@@ -3,8 +3,10 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "responsive-banner",
+      "img": "/img/uploads/87537129_1146700612339220_6445749770941104128_n.png",
+      "mobile_img": "/img/uploads/87537129_1146700612339220_6445749770941104128_n.png",
+      "link": "https://loja-jardim-do-eden.netlify.app/sado"
     },
     {
       "type": "collection-shelf",
@@ -26,8 +28,8 @@
       "link": "https://loja-jardim-do-eden.netlify.app/proteses"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/lust-metal.jpg"
+      "type": "breadcrumbs",
+      "enabled": true
     }
   ]
 }

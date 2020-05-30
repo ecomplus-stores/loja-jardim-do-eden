@@ -9,12 +9,12 @@
       "enabled": true
     },
     {
-      "type": "product-description",
-      "enabled": true
-    },
-    {
       "type": "related-products",
       "title": "Produtos relacionados"
+    },
+    {
+      "type": "product-description",
+      "enabled": true
     },
     {
       "type": "recommended-products",

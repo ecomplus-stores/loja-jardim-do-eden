@@ -33,7 +33,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/fetche2020.jpg"
+      "img": "/img/uploads/fetche2020.jpg",
+      "mobile_img": "/img/uploads/fetche2020.jpg"
     }
   ]
 }

@@ -32,22 +32,10 @@
       "sort": "news"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 1000,
-      "slides": [
-        {
-          "start": "2020-05-30T14:56:00.561Z",
-          "end": "2020-05-30T14:56:02.455Z",
-          "img": "/img/uploads/bomba.png",
-          "mobile_img": "/img/uploads/bomba.png"
-        },
-        {
-          "start": "2020-05-30T14:56:05.176Z",
-          "end": "2020-05-30T14:56:05.214Z",
-          "img": "/img/uploads/fantasias.png",
-          "mobile_img": "/img/uploads/fantasias.png"
-        }
-      ]
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2020-05-30T17:14:47.774Z",
+      "end": "2020-05-30T17:14:47.807Z"
     }
   ]
 }

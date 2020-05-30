@@ -3,6 +3,10 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/87537129_1146700612339220_6445749770941104128_n.png",
       "mobile_img": "/img/uploads/87537129_1146700612339220_6445749770941104128_n.png",
@@ -28,8 +32,22 @@
       "link": "https://loja-jardim-do-eden.netlify.app/proteses"
     },
     {
-      "type": "breadcrumbs",
-      "enabled": true
+      "type": "banner-slider",
+      "autoplay": 1000,
+      "slides": [
+        {
+          "start": "2020-05-30T14:56:00.561Z",
+          "end": "2020-05-30T14:56:02.455Z",
+          "img": "/img/uploads/bomba.png",
+          "mobile_img": "/img/uploads/bomba.png"
+        },
+        {
+          "start": "2020-05-30T14:56:05.176Z",
+          "end": "2020-05-30T14:56:05.214Z",
+          "img": "/img/uploads/fantasias.png",
+          "mobile_img": "/img/uploads/fantasias.png"
+        }
+      ]
     }
   ]
 }

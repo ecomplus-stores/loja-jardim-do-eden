@@ -7,6 +7,28 @@
       "enabled": true
     },
     {
+      "type": "banner-slider",
+      "autoplay": 5000,
+      "slides": [
+        {
+          "start": "2020-05-30T18:42:56.454Z",
+          "end": "2020-05-30T18:42:56.490Z",
+          "img": "/img/uploads/menforce-2020.jpg"
+        },
+        {
+          "start": "2020-05-30T18:43:32.072Z",
+          "end": "2020-05-30T18:43:32.113Z",
+          "mobile_img": "/img/uploads/lust-metal.jpg",
+          "img": "/img/uploads/lust-metal.jpg"
+        },
+        {
+          "start": "2020-05-30T18:44:08.348Z",
+          "end": "2020-05-30T18:44:08.391Z",
+          "img": "/img/uploads/fetche2020.jpg"
+        }
+      ]
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/87537129_1146700612339220_6445749770941104128_n.png",
       "mobile_img": "/img/uploads/87537129_1146700612339220_6445749770941104128_n.png",
@@ -30,28 +52,6 @@
       "shuffle": true,
       "collection_id": "5ec0274e126b0d05721389ea",
       "sort": "news"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 5000,
-      "slides": [
-        {
-          "start": "2020-05-30T18:42:56.454Z",
-          "end": "2020-05-30T18:42:56.490Z",
-          "img": "/img/uploads/menforce-2020.jpg"
-        },
-        {
-          "start": "2020-05-30T18:43:32.072Z",
-          "end": "2020-05-30T18:43:32.113Z",
-          "mobile_img": "/img/uploads/lust-metal.jpg",
-          "img": "/img/uploads/lust-metal.jpg"
-        },
-        {
-          "start": "2020-05-30T18:44:08.348Z",
-          "end": "2020-05-30T18:44:08.391Z",
-          "img": "/img/uploads/fetche2020.jpg"
-        }
-      ]
     }
   ]
 }

@@ -17,17 +17,17 @@
       "enabled": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner02.png",
+      "mobile_img": "/img/uploads/banner02.png"
+    },
+    {
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:"
     },
     {
       "type": "product-specifications",
       "enabled": true
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner02.png",
-      "mobile_img": "/img/uploads/banner02.png"
     }
   ]
 }

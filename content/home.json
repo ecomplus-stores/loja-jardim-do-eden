@@ -7,10 +7,24 @@
       "enabled": true
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/89299466_2529675020579136_3669331878281740288_n.png",
-      "mobile_img": "/img/uploads/89299466_2529675020579136_3669331878281740288_n.png",
-      "link": "https://loja-jardim-do-eden.netlify.app/fantasias"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2020-05-31T15:55:33.205Z",
+          "end": "2020-05-31T15:55:33.362Z",
+          "img": "/img/uploads/87537129_1146700612339220_6445749770941104128_n.png",
+          "mobile_img": "/img/uploads/87537129_1146700612339220_6445749770941104128_n.png",
+          "link": "https://lojajardimdoeden.com.br/sado"
+        },
+        {
+          "start": "2020-05-31T15:57:10.502Z",
+          "end": "2020-05-31T15:57:10.678Z",
+          "img": "/img/uploads/bomba.png",
+          "mobile_img": "/img/uploads/bomba.png",
+          "link": "https://lojajardimdoeden.com.br/bomba-peniana"
+        }
+      ]
     },
     {
       "type": "collection-shelf",

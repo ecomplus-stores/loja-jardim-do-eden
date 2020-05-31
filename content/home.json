@@ -15,7 +15,8 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "sort": "news"
+      "sort": "news",
+      "title": "Lançamentos"
     },
     {
       "type": "collection-shelf",

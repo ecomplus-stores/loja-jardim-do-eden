@@ -8,7 +8,7 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 8000,
       "slides": [
         {
           "start": "2020-05-31T15:55:33.205Z",

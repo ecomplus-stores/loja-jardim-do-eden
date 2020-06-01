@@ -7,19 +7,19 @@
     "pages": [
       {
         "title": "A empresa",
-        "link": "https://loja-jardim-do-eden.netlify.app/pages/sobre-nos"
+        "link": "https://lojajardimdoeden.com.br/pages/sobre-nos"
       },
       {
-        "link": "https://loja-jardim-do-eden.netlify.app/pages/pagamentos",
+        "link": "https://lojajardimdoeden.com.br/pages/pagamentos",
         "title": "Pagamentos"
       },
       {
-        "link": "https://loja-jardim-do-eden.netlify.app/pages/trocas",
+        "link": "https://lojajardimdoeden.com.br/pages/trocas",
         "title": "Trocas e Devoluções"
       },
       {
         "title": "Atendimento",
-        "link": "https://loja-jardim-do-eden.netlify.app/pages/contato"
+        "link": "https://lojajardimdoeden.com.br/pages/contato"
       }
     ],
     "phone_wpp": true,

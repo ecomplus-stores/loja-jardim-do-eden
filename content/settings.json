@@ -1,13 +1,13 @@
 {
   "domain": "lojajardim-eden.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#e60000",
+  "primary_color": "#e00000",
   "theme": {
     "bootswatch": "materia",
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/je-marcolado.png",
+  "logo": "/img/uploads/84486947_197422838120783_3141700012166086656_n.jpg",
   "name": "Jardim do Éden Comercio e Serviço do Vestuario LTDA",
   "short_name": "Jardim do Éden",
   "lang": "pt_br",

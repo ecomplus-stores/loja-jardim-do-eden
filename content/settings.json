@@ -4,7 +4,7 @@
   "primary_color": "#e60000",
   "theme": {
     "bootswatch": "materia",
-    "custom": "clean-gray"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/je-marcolado.png",

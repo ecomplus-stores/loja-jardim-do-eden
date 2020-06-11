@@ -3,7 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#e60000",
   "theme": {
-    "bootswatch": "materia"
+    "bootswatch": "materia",
+    "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/je-marcolado.png",

@@ -3,10 +3,6 @@
   "meta_description": "jardim do eden sexshop",
   "sections": [
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
       "type": "banner-slider",
       "autoplay": 8000,
       "slides": [
@@ -68,6 +64,10 @@
       "collection_id": "5ed3230e14ff772fde769127",
       "title": "Cosméticos Sensuais",
       "sort": "news"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     },
     {
       "type": "responsive-banner",

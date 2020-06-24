@@ -4,7 +4,7 @@
   "primary_color": "#dd0e0e",
   "theme": {
     "bootswatch": "materia",
-    "custom": "_"
+    "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/84486947_197422838120783_3141700012166086656_n.jpg",

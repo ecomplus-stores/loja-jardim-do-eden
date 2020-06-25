@@ -67,7 +67,10 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true
+      "shuffle": true,
+      "collection_id": "5ef3bdd614ff772fde7b314b",
+      "sort": "news",
+      "title": "Plug Lust Metal"
     },
     {
       "type": "breadcrumbs",

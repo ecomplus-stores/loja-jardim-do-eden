@@ -3,6 +3,7 @@
   "active": true,
   "desktopOnly": false,
   "enableCheckout": true,
+  "disablePages": true,
   "options": {
     "tawktoPropertyId": "579cc66d0d4930e271d65bdf",
     "tawktoChatWidget": ""

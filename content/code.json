@@ -1,5 +1,5 @@
 {
   "css": "",
-  "html_head": "<style> #imagem_whats{position:fixed;right:0;bottom:0;display:block;cursor:pointer;z-index:9999999;float:right} #imagem_whats2{position:fixed;right:0;bottom:0;display:block;cursor:pointer;z-index:9999999;float:right;display:none} @media only screen and (max-width: 999px) and (min-width: 100px){#imagem_whats{display:none}#imagem_whats2{display:block}}</style><img id=\"imagem_whats\" src=\"https://www.ellodigital.com.br/images/whatsapp.png\" onClick=\"window.open('https://web.whatsapp.com/send?phone=+5524998635766&amp;text=Olá!', '_blank');\"><img id=\"imagem_whats2\" src=\"https://www.ellodigital.com.br/images/whatsapp.png\" onClick=\"window.open('https://api.whatsapp.com/send?phone=+5524998635766&amp;text=Duvidas?', '_blank');\"><div class=\"preloader\"> <div class=\"preloaderimg\"></div></div>",
+  "html_head": "",
   "html_body": "<style>\n.whatsapp {\n    position: fixed;\n    top: 82%;\n    right: 1%;\n    padding: 10px;\n    z-index: 10000000;\n}\n</style>\n<div>\n    <a href=\"https://api.whatsapp.com/send?phone=5524998635766\" \n       target=\"_blank\">\n       <img  class=\"whatsapp\" src=\"https://assets.boxloja.io/shop/img/whatsapp.png\" />\n    </a>\n</div>"
 }

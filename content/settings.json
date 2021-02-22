@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#f31b1b",
   "theme": {
-    "bootswatch": "materia",
-    "custom": "niche-flowers"
+    "bootswatch": "minty",
+    "custom": "clean-white"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/je-site.png",

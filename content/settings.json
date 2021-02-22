@@ -4,7 +4,7 @@
   "primary_color": "#ff0000",
   "theme": {
     "bootswatch": "simplex",
-    "custom": "niche-flowers"
+    "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/je-site.png",

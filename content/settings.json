@@ -3,11 +3,11 @@
   "currency_symbol": "R$",
   "primary_color": "#ff0000",
   "theme": {
-    "bootswatch": "pulse",
-    "custom": "niche-flowers"
+    "bootswatch": "materia",
+    "custom": "clean-white"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/84486947_197422838120783_3141700012166086656_n.jpg",
+  "logo": "/img/uploads/je-site.png",
   "name": "Jardim do Eden Comercio de Artigos do Vestuario e Acessorios LTDA",
   "short_name": "Jardim do Éden",
   "lang": "pt_br",

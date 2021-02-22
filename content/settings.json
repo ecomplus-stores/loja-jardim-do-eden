@@ -1,7 +1,7 @@
 {
   "domain": "lojajardim-eden.netlify.app",
-  "primary_color": "#eb0000",
   "currency_symbol": "R$",
+  "primary_color": "#e20303",
   "theme": {
     "bootswatch": "materia",
     "custom": "clean-gray"

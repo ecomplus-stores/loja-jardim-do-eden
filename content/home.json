@@ -41,7 +41,7 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "collection_id": "604114cb6d50911b60541638:collections:Hard Metal:/hard-metal",
+      "collection_id": null,
       "sort": "news"
     },
     {

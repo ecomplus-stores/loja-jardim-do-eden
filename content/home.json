@@ -37,58 +37,20 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "sort": "news",
-      "title": "Lançamentos",
-      "headless": false
+      "type": "breadcrumbs",
+      "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "5e44489e62887026009fb187:categories:SADO:/sado",
-      "sort": "news",
-      "title": "Sado",
-      "link": "https://lojajardimdoeden.com.br/sado"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "5e4447ca62887026009fb17e:categories:PRÓTESES:/proteses",
-      "title": "Prótese",
-      "sort": "news",
-      "link": "https://lojajardimdoeden.com.br/proteses"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "5e44565362887026009fb19d:categories:VIBRADORES:/vibradores",
-      "sort": "news",
-      "title": "Vibradores",
-      "link": "https://lojajardimdoeden.com.br/eva-colection"
+      "type": "breadcrumbs",
+      "enabled": true
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1,
-      "collection_id": "5e443e1c62887026009fb13b:categories:COSMÉSTICOS:/cosmesticos",
-      "title": "Cosmésticos Beijaves  ",
-      "link": "https://lojajardimdoeden.com.br/quente"
-    },
-    {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/fetche2020.jpg",
-      "link": "https://lojajardimdoeden.com.br/plug-anal",
-      "mobile_img": "/img/uploads/fetche2020.jpg"
-    },
-    {
-      "type": "breadcrumbs",
-      "enabled": true
+      "page": 4,
+      "collection_id": "604114cb6d50911b60541638:collections:Hard Metal:/hard-metal",
+      "sort": "news"
     }
   ]
 }

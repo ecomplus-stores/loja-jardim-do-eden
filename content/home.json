@@ -68,6 +68,15 @@
       "link": "https://lojajardimdoeden.com.br/eva-colection"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5e443e1c62887026009fb13b:categories:COSMÉSTICOS:/cosmesticos",
+      "title": "Cosmésticos Beijaves  ",
+      "link": "https://lojajardimdoeden.com.br/quente"
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },

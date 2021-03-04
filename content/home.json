@@ -46,24 +46,26 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "5ec83150126b0d057214ae24",
+      "collection_id": "5e44489e62887026009fb187:categories:SADO:/sado",
       "sort": "news",
-      "title": "Prótese Peniana",
-      "link": "https://loja-jardim-do-eden.netlify.app/proteses"
+      "title": "Sado",
+      "link": "https://lojajardimdoeden.com.br/sado"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "5ed3230e14ff772fde769127",
-      "title": "Cosméticos Sensuais",
-      "sort": "news"
+      "collection_id": "5e4447ca62887026009fb17e:categories:PRÓTESES:/proteses",
+      "title": "Prótese",
+      "sort": "news",
+      "link": "https://lojajardimdoeden.com.br/proteses"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "5ef3bdd614ff772fde7b314b",
+      "collection_id": "5e44565362887026009fb19d:categories:VIBRADORES:/vibradores",
       "sort": "news",
-      "title": "Plug Lust Metal"
+      "title": "Vibradores",
+      "link": "https://lojajardimdoeden.com.br/eva-colection"
     },
     {
       "type": "breadcrumbs",

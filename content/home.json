@@ -42,7 +42,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": null,
-      "sort": "news"
+      "sort": "news",
+      "headless": true
     },
     {
       "type": "collection-shelf",
@@ -50,11 +51,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "5e4447ca62887026009fb17e:categories:PRÓTESES:/proteses",
-      "sort": "news"
-    },
-    {
-      "type": "breadcrumbs",
-      "enabled": true
+      "sort": "views",
+      "headless": true
     },
     {
       "type": "breadcrumbs",

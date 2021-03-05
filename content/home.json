@@ -45,24 +45,16 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 6,
-      "collection_id": "604116796d50911b605418ec:collections:Sadomasoquismo:/sadomasoquismo",
-      "sort": "news",
-      "headless": false
-    },
-    {
-      "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
-      "collection_id": "5e44643862887026009fb1dd:categories:MASTURBADOR:/masturbador"
+      "sort": "news"
     },
     {
-      "type": "breadcrumbs",
-      "enabled": true
+      "type": "responsive-banner",
+      "img": "/img/uploads/fetche2020.jpg",
+      "link": "https://lojajardimdoeden.com.br/sado",
+      "mobile_img": "/img/uploads/fetche2020.jpg"
     },
     {
       "type": "breadcrumbs",

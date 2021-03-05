@@ -44,6 +44,26 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 14,
+      "page": 1,
+      "sort": "sales",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "headless": true
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -67,26 +87,6 @@
           "link": "https://lojajardimdoeden.com.br/search?term=higienisador"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 14,
-      "page": 1,
-      "sort": "sales",
-      "headless": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "headless": true
-    },
-    {
-      "type": "breadcrumbs",
-      "enabled": true
     }
   ]
 }

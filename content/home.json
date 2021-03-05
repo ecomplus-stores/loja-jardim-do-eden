@@ -51,14 +51,25 @@
       "sort": "news"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/fetche2020.jpg",
-      "link": "https://lojajardimdoeden.com.br/sado",
-      "mobile_img": "/img/uploads/fetche2020.jpg"
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/menforce-2020.jpg",
+          "mobile_img": "/img/uploads/menforce-2020.jpg"
+        },
+        {
+          "img": "/img/uploads/volumoso_.jfif",
+          "mobile_img": "blob:https://lojajardimdoeden.com.br/b5a5a5cc-adb0-416a-89af-51f17e46a603"
+        },
+        {
+          "img": "/img/uploads/libstim.jfif",
+          "mobile_img": "blob:https://lojajardimdoeden.com.br/0e743915-a2af-4881-9aa7-7d043bd9baae"
+        }
+      ]
     }
   ]
 }

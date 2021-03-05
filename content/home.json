@@ -48,9 +48,21 @@
       "shuffle": true,
       "limit": 12,
       "page": 6,
-      "collection_id": null,
+      "collection_id": "604116796d50911b605418ec:collections:Sadomasoquismo:/sadomasoquismo",
       "sort": "news",
-      "headless": true
+      "headless": false
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "collection_id": "5e44643862887026009fb1dd:categories:MASTURBADOR:/masturbador"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     },
     {
       "type": "breadcrumbs",

@@ -51,29 +51,39 @@
       "sort": "news"
     },
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
           "img": "/img/uploads/menforce-2020.jpg",
-          "mobile_img": "/img/uploads/menforce-2020.jpg"
+          "mobile_img": "/img/uploads/menforce-2020.jpg",
+          "link": "https://lojajardimdoeden.com.br/performance-masculina"
         },
         {
           "img": "/img/uploads/volumoso_.jfif",
-          "mobile_img": "blob:https://lojajardimdoeden.com.br/b5a5a5cc-adb0-416a-89af-51f17e46a603"
+          "mobile_img": "blob:https://lojajardimdoeden.com.br/b5a5a5cc-adb0-416a-89af-51f17e46a603",
+          "link": "https://lojajardimdoeden.com.br/volumoso"
         },
         {
           "img": "/img/uploads/libstim.jfif",
-          "mobile_img": "blob:https://lojajardimdoeden.com.br/0e743915-a2af-4881-9aa7-7d043bd9baae"
+          "mobile_img": "blob:https://lojajardimdoeden.com.br/0e743915-a2af-4881-9aa7-7d043bd9baae",
+          "link": "https://lojajardimdoeden.com.br/libido-stim"
         },
         {
           "img": "/img/uploads/intimate-care.jfif",
-          "mobile_img": "blob:https://lojajardimdoeden.com.br/70f31fab-2462-4d14-a4d0-08d815f1a81d"
+          "mobile_img": "blob:https://lojajardimdoeden.com.br/70f31fab-2462-4d14-a4d0-08d815f1a81d",
+          "link": "https://lojajardimdoeden.com.br/search?term=higienisador"
         }
       ]
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/fetche2020.jpg",
+      "mobile_img": "/img/uploads/fetche2020.jpg",
+      "link": "https://lojajardimdoeden.com.br/sado"
     }
   ]
 }

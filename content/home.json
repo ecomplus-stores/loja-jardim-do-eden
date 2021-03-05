@@ -44,23 +44,7 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 14,
-      "page": 1,
-      "sort": "sales",
-      "headless": false
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "headless": false
-    },
-    {
-      "type": "breadcrumbs",
+      "type": "info-bar",
       "enabled": true
     },
     {
@@ -86,10 +70,30 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
+      "limit": 14,
+      "page": 1,
+      "sort": "sales",
+      "headless": false
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "headless": false
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_id": "604114cb6d50911b60541638:collections:Hard Metal:/hard-metal",
       "sort": "highest_price"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     }
   ]
 }

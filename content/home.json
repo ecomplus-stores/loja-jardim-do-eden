@@ -85,6 +85,14 @@
       "img": "/img/uploads/fetche2020.jpg",
       "mobile_img": "/img/uploads/fetche2020.jpg",
       "link": "https://lojajardimdoeden.com.br/sado"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "headless": true
     }
   ]
 }

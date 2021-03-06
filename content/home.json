@@ -68,6 +68,10 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/borboletas.jpg"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 14,

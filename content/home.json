@@ -110,7 +110,12 @@
       "banners": [
         {
           "img": "/img/uploads/borboletas.jpg",
-          "mobile_img": "/img/uploads/cosm.jpg"
+          "mobile_img": "",
+          "link": "https://lojajardimdoeden.com.br/butterfly"
+        },
+        {
+          "img": "/img/uploads/cosm.jpg",
+          "link": "https://lojajardimdoeden.com.br/search?term=oops%21"
         }
       ]
     }

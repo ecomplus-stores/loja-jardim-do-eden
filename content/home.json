@@ -52,17 +52,17 @@
       "banners": [
         {
           "img": "/img/uploads/gel-sex.jpg",
-          "mobile_img": "blob:https://lojajardimdoeden.com.br/4b3e354d-dacf-40d7-8a66-17002eb01ae8",
+          "mobile_img": "",
           "link": "https://lojajardimdoeden.com.br/intense-sex"
         },
         {
           "img": "/img/uploads/desodorante.jpg",
           "link": "https://lojajardimdoeden.com.br/search?term=desodorante",
-          "mobile_img": "/img/uploads/desodorante.jpg"
+          "mobile_img": ""
         },
         {
-          "img": "/img/uploads/lua-de-mel.jpg",
-          "mobile_img": "/img/uploads/lua-de-mel.jpg",
+          "img": "blob:https://lojajardimdoeden.com.br/67ecc4c9-8372-42b2-ae2c-c696e57669be",
+          "mobile_img": "",
           "link": "https://lojajardimdoeden.com.br/lua-de-mel"
         }
       ]
@@ -97,8 +97,8 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "collection_id": "5e443e1c62887026009fb13b:categories:COSMÉSTICOS:/cosmesticos",
-      "sort": "views",
+      "collection_id": "604115956d50911b60541736:collections:Coleção Eva:/colecao-eva",
+      "sort": "news",
       "headless": true
     },
     {

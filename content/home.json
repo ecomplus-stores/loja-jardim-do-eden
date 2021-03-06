@@ -106,8 +106,13 @@
       "enabled": true
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/borboletas.jpg"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/borboletas.jpg",
+          "mobile_img": "/img/uploads/cosm.jpg"
+        }
+      ]
     }
   ]
 }

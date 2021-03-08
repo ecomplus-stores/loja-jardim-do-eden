@@ -48,26 +48,6 @@
       "enabled": true
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/gel-sex.jpg",
-          "mobile_img": "",
-          "link": "https://lojajardimdoeden.com.br/intense-sex"
-        },
-        {
-          "img": "/img/uploads/desodorante.jpg",
-          "link": "https://lojajardimdoeden.com.br/search?term=desodorante",
-          "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/lua-de-mel.jpg",
-          "mobile_img": "",
-          "link": "https://lojajardimdoeden.com.br/lua-de-mel"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 14,
@@ -109,13 +89,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/borboletas.jpg",
+          "img": "/img/uploads/gel-sex.jpg",
           "mobile_img": "",
-          "link": "https://lojajardimdoeden.com.br/butterfly"
+          "link": "https://lojajardimdoeden.com.br/intense-sex"
         },
         {
-          "img": "/img/uploads/cosm.jpg",
-          "link": "https://lojajardimdoeden.com.br/search?term=oops%21"
+          "img": "/img/uploads/desodorante.jpg",
+          "link": "https://lojajardimdoeden.com.br/search?term=desodorante",
+          "mobile_img": ""
+        },
+        {
+          "img": "/img/uploads/lua-de-mel.jpg",
+          "mobile_img": "",
+          "link": "https://lojajardimdoeden.com.br/lua-de-mel"
         }
       ]
     }

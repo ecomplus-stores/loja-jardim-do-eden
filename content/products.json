@@ -13,8 +13,28 @@
       "title": "Produtos relacionados"
     },
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/cosm.jpg",
+          "link": "https://lojajardimdoeden.com.br/search?term=oops"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/borboletas.jpg",
+          "link": "https://lojajardimdoeden.com.br/butterfly"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/mr-bigcaixa2.jpg",
+          "link": "https://lojajardimdoeden.com.br/bomba-peniana"
+        }
+      ]
     },
     {
       "type": "product-description",

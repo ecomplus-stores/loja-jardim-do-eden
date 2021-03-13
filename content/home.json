@@ -52,7 +52,7 @@
       "shuffle": true,
       "limit": 14,
       "page": 1,
-      "sort": "sales",
+      "sort": "news",
       "headless": false
     },
     {
@@ -60,7 +60,7 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "sales",
       "headless": true
     },
     {
@@ -69,7 +69,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "604114cb6d50911b60541638:collections:Hard Metal:/hard-metal",
-      "sort": "highest_price",
+      "sort": "sales",
       "headless": true
     },
     {
@@ -78,32 +78,21 @@
       "limit": 12,
       "page": 1,
       "collection_id": "604115956d50911b60541736:collections:Coleção Eva:/colecao-eva",
-      "sort": "news",
+      "sort": "sales",
       "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "604116796d50911b605418ec:collections:Sadomasoquismo:/sadomasoquismo",
+      "headless": true,
+      "sort": "news"
     },
     {
       "type": "breadcrumbs",
       "enabled": true
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/gel-sex.jpg",
-          "mobile_img": "",
-          "link": "https://lojajardimdoeden.com.br/intense-sex"
-        },
-        {
-          "img": "/img/uploads/desodorante.jpg",
-          "link": "https://lojajardimdoeden.com.br/search?term=desodorante",
-          "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/lua-de-mel.jpg",
-          "mobile_img": "",
-          "link": "https://lojajardimdoeden.com.br/lua-de-mel"
-        }
-      ]
     }
   ]
 }

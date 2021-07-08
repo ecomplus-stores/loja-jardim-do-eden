@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.41c04e0366b01af8787831c1563934d8.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.b0966117c8f42895a4a7e520ccec5fa5.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.dea102bac46bea861687a8091d83a21d.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.dcc3d4687a74e12b4bdfb975ff56cfa1.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.6774343e44356caa8e251fdbcada9aff.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Jardim do Eden Comercio de Artigos do Vestuario e Acessorios LTDA",
+  "short_name": "Jardim do Éden",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Nossa prioridade é levar uma melhor qualidade de vida para nossos clientes com produtos de alta qualidade e total discrição de maneira rápida, prática e segura.",
+  "background_color": "#faebeb",
+  "theme_color": "#dc0000"
+}

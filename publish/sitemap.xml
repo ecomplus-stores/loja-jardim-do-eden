@@ -3794,12 +3794,6 @@
     </url>
   
     <url>
-      <loc>https://lojajardim-eden.netlify.app/pages/pagamentos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://lojajardim-eden.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -3807,6 +3801,12 @@
   
     <url>
       <loc>https://lojajardim-eden.netlify.app/pages/sobre-nos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://lojajardim-eden.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -3848,12 +3848,6 @@
     </url>
   
     <url>
-      <loc>https://lojajardim-eden.netlify.app/admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://lojajardim-eden.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -3863,6 +3857,12 @@
       <loc>https://lojajardim-eden.netlify.app/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://lojajardim-eden.netlify.app/admin/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>

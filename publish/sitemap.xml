@@ -3398,30 +3398,6 @@
     </url>
   
     <url>
-      <loc>https://lojajardim-eden.netlify.app/protese</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://lojajardim-eden.netlify.app/hard-metal</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://lojajardim-eden.netlify.app/colecao-eva</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://lojajardim-eden.netlify.app/sadomasoquismo</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://lojajardim-eden.netlify.app/cosmesticos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -3771,6 +3747,30 @@
   
     <url>
       <loc>https://lojajardim-eden.netlify.app/cintaralho</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://lojajardim-eden.netlify.app/protese</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://lojajardim-eden.netlify.app/hard-metal</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://lojajardim-eden.netlify.app/colecao-eva</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://lojajardim-eden.netlify.app/sadomasoquismo</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>

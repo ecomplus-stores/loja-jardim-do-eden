@@ -3782,13 +3782,13 @@
     </url>
   
     <url>
-      <loc>https://lojajardim-eden.netlify.app/pages/entrega</loc>
+      <loc>https://lojajardim-eden.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://lojajardim-eden.netlify.app/pages/faq</loc>
+      <loc>https://lojajardim-eden.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -3800,7 +3800,7 @@
     </url>
   
     <url>
-      <loc>https://lojajardim-eden.netlify.app/pages/privacidade</loc>
+      <loc>https://lojajardim-eden.netlify.app/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -3812,7 +3812,7 @@
     </url>
   
     <url>
-      <loc>https://lojajardim-eden.netlify.app/pages/trocas</loc>
+      <loc>https://lojajardim-eden.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
